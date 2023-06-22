@@ -4,8 +4,8 @@ const products = [
         name: "Shirt",
         price: 6.00,
         description: 
-            "",
-        imageSrc: "./nakSnaks/esquites.jpeg",
+            "Hello",
+        imageSrc: "../subImages/supremeShirt.jpeg",
         inStock: 5,
     },
 
@@ -13,8 +13,8 @@ const products = [
         id: 1,
         name: "Shoes",
         price: 5.00,
-        description: "",
-        imageSrc: "./nakSnaks/rueditas.jpeg",
+        description: "On feet",
+        imageSrc: "../subImages/supremeShirt.jpeg",
         inStock: 5,
     },
 
@@ -22,8 +22,8 @@ const products = [
         id: 2,
         name: "Hats",
         price: 3.00,
-        description: "",
-        imageSrc: "./nakSnaks/nachos.jpeg",
+        description: "On head",
+        imageSrc: "../subImages/supremeShirt.jpeg",
         inStock: 5,
     },
 
@@ -31,8 +31,8 @@ const products = [
         id: 3,
         name: "Pants",
         price: 5.00,
-        description: "",
-        imageSrc: "./nakSnaks/hotCheetoswCheese.webp",
+        description: "Flask",
+        imageSrc: "../subImages/supremeShirt.jpeg",
         inStock: 5,
     }, 
 
@@ -40,8 +40,8 @@ const products = [
         id: 4,
         name: "Hoodies",
         price: 5.00,
-        description: "",
-        imageSrc: "./nakSnaks/horchata.jpeg",
+        description: "Hood",
+        imageSrc: "../subImages/supremeShirt.jpeg",
         inStock: 5,
     },
 
@@ -49,8 +49,8 @@ const products = [
         id: 5,
         name: "Beanies",
         price: 5.00,
-        description: "",
-        imageSrc: "./nakSnaks/chiadrink.jpeg",
+        description: "On Head",
+        imageSrc: "../subImages/supremeShirt.jpeg",
         inStock: 5,
     },
 ]
