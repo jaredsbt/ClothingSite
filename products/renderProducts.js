@@ -1,8 +1,8 @@
-const products = document.querySelector(".products");
+const productsE = document.querySelector(".products");
 
 function renderProducts() {
     products.forEach((product) => {
-        products.innerHTML += `
+        productsE.innerHTML += `
             <div class = "flex-container-column">
                 <div class = "item">
                     <div class = "item-container" style = "width: 300px; height: 300px">
