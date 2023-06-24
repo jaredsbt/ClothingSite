@@ -1,4 +1,4 @@
-const productsE = document.querySelector(".products");
+const productsE = document.querySelector(".products ");
 
 function renderProducts() {
     products.forEach((product) => {
